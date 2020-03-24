@@ -35,6 +35,10 @@ module.exports = {
       "error",
       "single"
     ],
+    "quote-props": [
+      "error",
+      "as-needed"
+    ],
     semi: [
       "error",
       "never"
